@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickerGod</string>
+    <string name="welcome">Clique sur moi pour commencer à jouer !</string>
+    <string name="compteur">Points : 0</string>
+    <string name="victory">Bon, c\'est pas tout ça mais je vais retourner chasser mes pokémons moi</string>
+
+</resources>
